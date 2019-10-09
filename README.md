@@ -7,5 +7,6 @@
 git clone https://github.com/zhangyanling77/my-react-fiber.git
 cd my-react-fiber
 npm install
+webpack
 
 ```
